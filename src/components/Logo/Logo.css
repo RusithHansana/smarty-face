@@ -1,0 +1,22 @@
+.Tilt {
+  height: 150px;
+  width: 150px;
+  background: linear-gradient(89deg, #7f7fd5 0%, #91eae4 100%);
+}
+
+.logo {
+  width: 100px;
+  padding-top: 25px;
+  opacity: 75%;
+}
+
+.links {
+  display: flex;
+  justify-content: flex-start;
+  font-size: 14px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}

@@ -1,0 +1,17 @@
+.input-image {
+  width: 500px;
+  background-size: cover;
+}
+
+.bounding-box {
+  position: absolute;
+  box-shadow: 0 0 0 3px #14f227 inset;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  cursor: pointer;
+}
